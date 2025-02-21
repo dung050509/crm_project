@@ -6,7 +6,7 @@ This CRM project is a system for managing customers, products, employees, and ta
 ## Installation
 
 ### Requirements
-- Python 3.x
+- Python 
 - Django
 - Other required packages listed in `requirements.txt`
 
